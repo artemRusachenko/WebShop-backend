@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/lesson1 Simple Functions + Controller/Controllers/CustomerController.cs
+/lesson1 Simple Functions + Controller/DTOs/CustomersDtos
+/lesson1 Simple Functions + Controller/Models/Customer.cs
+/lesson1 Simple Functions + Controller/Services/CustomerService
+/lesson1 Simple Functions + Controller/Dataa/SqlServerContext.cs
