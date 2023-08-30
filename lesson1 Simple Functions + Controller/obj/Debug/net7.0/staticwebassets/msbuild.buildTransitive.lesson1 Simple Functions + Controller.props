@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\lesson1 Simple Functions + Controller.props" />
+</Project>

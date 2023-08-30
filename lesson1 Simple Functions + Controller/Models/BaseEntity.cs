@@ -1,0 +1,9 @@
+﻿namespace lesson1_Simple_Functions___Controller.Models
+{
+    public class BaseEntity
+    {
+        public int Id { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime? UpdatedDate { get; set; }
+    }
+}

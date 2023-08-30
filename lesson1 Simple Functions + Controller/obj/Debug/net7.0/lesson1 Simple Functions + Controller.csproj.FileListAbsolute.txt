@@ -1,0 +1,178 @@
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\appsettings.Development.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\appsettings.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.exe
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.deps.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.runtimeconfig.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.pdb
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.AssemblyReference.cache
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.AssemblyInfoInputs.cache
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.AssemblyInfo.cs
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.CoreCompileInputs.cache
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.MvcApplicationPartsAssemblyInfo.cs
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.MvcApplicationPartsAssemblyInfo.cache
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.lesson1 Simple Functions + Controller.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.build.lesson1 Simple Functions + Controller.props
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lesson1 Simple Functions + Controller.props
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lesson1 Simple Functions + Controller.props
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.pack.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.build.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.development.json
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\scopedcss\bundle\lesson1 Simple Functions + Controller.styles.css
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.CopyComplete
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\refint\lesson1 Simple Functions + Controller.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.pdb
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.genruntimeconfig.cache
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\ref\lesson1 Simple Functions + Controller.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Azure.Core.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Azure.Identity.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Humanizer.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.CodeDom.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Memory.Data.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Npgsql.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\AutoMapper.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Scrutor.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.AssemblyReference.cache
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.AssemblyInfoInputs.cache
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.AssemblyInfo.cs
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.CoreCompileInputs.cache
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.MvcApplicationPartsAssemblyInfo.cs
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.MvcApplicationPartsAssemblyInfo.cache
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\refint\lesson1 Simple Functions + Controller.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.pdb
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\appsettings.Development.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\appsettings.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.exe
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.deps.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.runtimeconfig.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\lesson1 Simple Functions + Controller.pdb
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\AutoMapper.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Azure.Core.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Azure.Identity.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\BCrypt.Net-Next.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Humanizer.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Npgsql.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Scrutor.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.CodeDom.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Memory.Data.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.lesson1 Simple Functions + Controller.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.build.lesson1 Simple Functions + Controller.props
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lesson1 Simple Functions + Controller.props
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lesson1 Simple Functions + Controller.props
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.pack.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.build.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\staticwebassets.development.json
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\scopedcss\bundle\lesson1 Simple Functions + Controller.styles.css
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.csproj.CopyComplete
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\lesson1 Simple Functions + Controller.genruntimeconfig.cache
+F:\IT CONTACT\Backend\lesson1 Simple Functions + Controller\lesson1 Simple Functions + Controller\obj\Debug\net7.0\ref\lesson1 Simple Functions + Controller.dll
